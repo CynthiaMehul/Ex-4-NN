@@ -143,7 +143,7 @@ predicted_values = m1.predict(testing_a)
 print(confusion_matrix(testing_b, predicted_values))
 print(classification_report(testing_b, predicted_values))
 ```
-<pre>
+</pre>
 <H3>Output:</H3>
 
 ![image](https://github.com/user-attachments/assets/89c7c4b3-c1ad-4257-ad9b-22737f6b2910)
